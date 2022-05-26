@@ -47,6 +47,10 @@ Surprise, it's not the person who made it or the person who buys it - it's the m
 
 WIP
 
+## Project Mission and Values
+
+WIP
+
 ## Product Vision
 
 ### Blockchain Distribution & rights management
@@ -88,13 +92,33 @@ WIP
 
 WIP
 
-## Customer Acquisition
+### Market Analysis
+
+WIP
+
+### Competitive Analysis
+
+WIP
+
+### Customer Acquisition
+
+WIP
+
+### Competitive Advantage
 
 WIP
 
 ## Roadmap
 
 WIP
+
+Q2- 2022
+
+Q3- 2022
+
+Q4- 2022
+
+Q1- 2023
 
 ## [WIP] Tokenomics
 
@@ -132,5 +156,9 @@ Innovator. Poet. Digital Storyteller. Creative Strategist.
 
 
 ## Disclaimer 
+
+WIP
+
+## References
 
 WIP
